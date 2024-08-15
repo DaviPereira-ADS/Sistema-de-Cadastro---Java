@@ -46,15 +46,12 @@ Para compilar e executar o projeto, siga os seguintes passos:
 3. **Atualizar Produto**: Insira o nome do produto que deseja atualizar e forneça as novas informações.
 4. **Remover Produto**: Insira o nome do produto que deseja remover.
 
-## Contribuição
-
-Se desejar contribuir para o projeto, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_ com melhorias ou correções.
-
-## Contato
-
-Se tiver dúvidas ou sugestões, entre em contato com [seu-email@example.com](mailto:seu-email@example.com).
-
 ## Imagem: 
 ![Captura de Tela (64)](https://github.com/user-attachments/assets/9b474aa3-0988-4dbb-ac45-2f57060590e7)
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você tiver alguma sugestão ou encontrar algum bug, fique à vontade para abrir uma issue ou enviar um pull request.
+Projeto para fins de estudo acadêmico em Java.
 
 
